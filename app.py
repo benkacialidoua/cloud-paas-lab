@@ -1,5 +1,4 @@
-from flask import Flask
-
+rom flask import Flask
 app = Flask(name)
 
 @app.route("/")
